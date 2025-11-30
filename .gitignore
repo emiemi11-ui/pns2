@@ -1,0 +1,13 @@
+# Log files
+manual_pns_generator.log
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
